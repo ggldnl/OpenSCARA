@@ -1,4 +1,4 @@
-# SCARA
+# OpenSCARA
 
 ![Preview](media/preview.png)
 
